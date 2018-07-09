@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+   <!-- Comment: drawableRight is set a drawable to textView 
+        Which will show a text and drawable in one textView
+
+   -->
+    <com.meitu.mobile.contacts.common.widgets.MeituCompoundTxtView
+        android:id="@+id/dial_out_1"
+        style="@style/meitu_dial_txt_style"
+        android:layout_gravity="left"
+        android:drawableRight="@drawable/meitu_dial_sim_indicator_1"
+        android:layout_marginLeft="24dp"
+        android:background="@drawable/meitu_dialout_bg_1" />
+</view>
